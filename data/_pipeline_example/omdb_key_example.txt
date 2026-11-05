@@ -1,0 +1,11 @@
+# OMDb API keys - ONE KEY PER LINE.
+# Each key gets its own budget of OMDB_DAILY_LIMIT (1000) requests per day,
+# so 6 keys here = 6 x 1000 = 6000 requests available in a single run.
+# Blank lines and lines starting with '#' are ignored.
+#
+# This file is example
+# to actually use it with build_data.py, you should change `_pipeline_example` to `_pipeline`
+# and `omdb_key_example.txt` to `omdb_key.txt` and also provide your keys down here:
+[OMDB_API_KEY_1]
+[OMDB_API_KEY_2]
+[OMDB_API_KEY_N]
