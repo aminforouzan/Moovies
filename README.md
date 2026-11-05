@@ -12,6 +12,7 @@ A SPA web client to search, filter, sort and brows movies and series data based 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
+- [Changes And Contribution](#changes-and-contribution)
 - [Attribution](#attribution)
 - [License](#license)
 
@@ -115,6 +116,9 @@ Instead, the project splits data into two forms:
    npm run dev
    ```
    Open `http://localhost:5173` in your browser.
+
+## Changes And Contribution
+Changelog, version history and upcoming features are listed in [Changes](/CHANGES.md).
 
 ## Attribution
 
