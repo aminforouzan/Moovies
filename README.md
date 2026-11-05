@@ -24,13 +24,10 @@ Later the internet shut down continued after [US and Isreal attacked Iran](https
 
 ## Screenshots
 
-### Desktop
+| Desktop | Mobile |
+|---------|--------|
+| ![Desktop screenshot](./screenshots/desktop.png) | ![Mobile screenshot](./screenshots/mobile.png) |
 
-![Desktop screenshot](./screenshots/desktop.png)
-
-### Mobile
-
-![Mobile screenshot](./screenshots/mobile.png)
 
 [Live Site](https://moovies.ir)
 
